@@ -1,0 +1,203 @@
+body{
+	background-color: lavender;
+}
+.cabecalho{
+	width:100%;
+	height:10vh;
+	background-color:white;
+	display: flex;
+	align-items: center;
+	margin-bottom: 50px;
+}
+.marca{
+	width:10%;
+	height:9vh;
+	background-color: black;
+	flex: start;
+	margin: 10px;
+}
+.marca2{
+
+	width:10%;
+	height:9vh;
+	background-color: black;
+	margin-left: auto;
+}
+
+img{
+	width: 100%;
+	height: 100%;
+}
+.rd1{
+	width:2.5%;
+	height:5vh;
+	background-color: black;
+	margin-left: 74%;
+	
+	
+}
+.rd2{
+	width:2.5%;
+	height:5vh;
+	background-color: black;
+	margin-left: 2%;
+	
+}
+.rd3{
+	width:2.5%;
+	height:5vh;
+	background-color: black;
+	margin-left: 2%;
+	
+}
+/*-----------------------------------------------------------------------------------------------------------------*/
+
+.imagemdecima{
+	width:100%;
+	height:50vh;
+	background-color:lavender;
+	display: flex;
+	flex: end;
+	align-items: center;
+	
+}
+.imagemgrande{
+	width:75%;
+	height:45vh;
+	background-color:lavender;
+	display: flex;
+	margin: 10px;
+
+}
+.imagenspequenas{
+    width:20%;
+	height:45vh;
+	background-color:lavender;
+	display: flex;
+	flex-wrap: wrap;
+	flex: end;
+	align-items: center;
+	margin-left: auto;
+
+}
+.imagempequena1{
+	width:80%;
+	height:21vh;
+	background-color: black;
+	margin-left: 10%;
+
+}
+.imagempequena2{
+	width:80%;
+	height:21vh;
+	background-color: black;
+	margin-top: auto;
+	margin-left: 10%;
+	
+
+}
+/*-------------------------------------------------------------------------------------------------------------------*/
+
+.todoresto{
+	width: 100%;
+    height: 100vh;
+    background-color: lavender;
+    display: flex;
+    justify-content: space-between;
+}
+.coluna{
+	width: 15%;
+	height: 95vh;
+	margin: 10px;
+	background-color: black;
+}
+.quadrados{
+	width: 85%;
+	height: 95vh;
+	margin: 10px;
+	display: flex;
+}
+.texto1{
+	width: 97%;
+	height: 2vh;
+
+	margin-left: 10px;
+	margin-top: 15px;
+}
+.quadradinhos{
+	width: 100%;
+	height: 100vh;
+}
+.horizontal{
+    width: 97%;
+	height: 82vh;
+	background-color: ;	
+	margin-left: 10px;
+	margin-top:10px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.horizontal1{
+    width: 100%;
+	height: 41vh;
+	
+	display: flex;	
+}
+.horizontal2{
+    width: 100%;
+	height: 41vh;
+	
+	display: flex;		
+}
+
+.img1{
+	height: 25vh;
+	width: 25%;
+	background-color: black;
+}
+
+.img2{
+	height: 25vh;
+	width: 25%;
+	background-color: black;
+	margin-left: auto;
+
+
+}
+
+.img3{
+	height: 25vh;
+	width: 25%;
+	background-color: black;
+	margin-left: auto;
+}
+.texto2{
+	height: 5%;
+	width: 100%;
+
+	
+}
+.texto3{
+	height: 5%;
+	width: 100%;
+
+	margin-top: 5vh;
+}
+.rodape{
+	margin-top: 50px;
+	width:100%;
+	height:10vh;
+	background-color:white;
+	display: flex;
+	align-items: center;
+	
+}
+footer {
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+
+}
+
+
+
